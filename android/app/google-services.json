@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207746746055",
+    "project_id": "bahar-firebase-case-1",
+    "storage_bucket": "bahar-firebase-case-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207746746055:android:978df97f124dbe0a7120e2",
+        "android_client_info": {
+          "package_name": "com.example.bahar_firebase_case"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuO3Btn_jW0YVh_DD4SOON131DH6GW7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
